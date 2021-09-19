@@ -146,7 +146,7 @@ namespace BHS_Demo
       
 
         
-        private void 刷新节点ToolStripMenuItem_Click(object sender, EventArgs e)
+        private void ToolStripMenuItem_Click(object sender, EventArgs e)
         {
             if (this.treeView1.SelectedNode == null) return;
 

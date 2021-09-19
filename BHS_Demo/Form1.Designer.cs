@@ -114,7 +114,7 @@ namespace BHS_Demo
             this.刷新节点ToolStripMenuItem.Name = "刷新节点ToolStripMenuItem";
             this.刷新节点ToolStripMenuItem.Size = new System.Drawing.Size(152, 30);
             this.刷新节点ToolStripMenuItem.Text = "刷新节点";
-            this.刷新节点ToolStripMenuItem.Click += new System.EventHandler(this.刷新节点ToolStripMenuItem_Click);
+            this.刷新节点ToolStripMenuItem.Click += new System.EventHandler(this.ToolStripMenuItem_Click);
             // 
             // pictureBox1
             // 
